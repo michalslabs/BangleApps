@@ -1,0 +1,12 @@
+{ "id": "misun",
+  "name": "MiSun sunrise and sunset",
+  "shortName":"MiSun",
+  "version":"0.01",
+  "description": "Shows the current time, and time of sunrise, noon, sunset etc.",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"misun.app.js","url":"app.js"}
+  ]
+}
